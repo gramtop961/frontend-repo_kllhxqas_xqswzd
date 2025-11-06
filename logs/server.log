@@ -1,0 +1,5 @@
+
+> clean-crud-app@1.0.0 dev
+> vite --port 3000 --strictPort
+
+sh: 1: vite: not found
